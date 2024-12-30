@@ -1,4 +1,13 @@
+#pregunta 2
 pandas>=2.1.1
 numpy>=1.26.0
 pydicom>=2.4.1
 Pillow>=10.1.0
+
+#pregunta 3
+fastapi==0.103.1
+uvicorn==0.23.2
+sqlalchemy==2.0.21
+psycopg2-binary==2.9.9
+pydantic==2.3.0
+alembic==1.11.3
